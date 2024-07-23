@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 1
-description: with background image
-img: assets/img/12.jpg
+description: SES-01
+img: assets/img/12a.jpg
 importance: 1
-category: work
+category: SES
 related_publications: true
 ---
 
