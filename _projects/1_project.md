@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: SES-01
+description: SES-01 第一学期微积分期中
 img: assets/img/12c.jpg
 importance: 1
 category: work
