@@ -2,7 +2,7 @@
 layout: page
 title: project 1 step01
 description: SES-01
-img: assets/img/12a.jpg
+img: assets/img/12c.jpg
 importance: 1
 category: SES
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12a.jpg
+    img: /assets/img/12c.jpg
     ---
 
 <div class="row">
