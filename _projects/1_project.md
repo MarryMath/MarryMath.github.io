@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1 step01
+title: project 1
 description: SES-01
 img: assets/img/12c.jpg
 importance: 1
