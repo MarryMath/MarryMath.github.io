@@ -4,7 +4,7 @@ title: project 1 step01
 description: SES-01
 img: assets/img/12c.jpg
 importance: 1
-category: SES
+category: work
 related_publications: true
 ---
 
