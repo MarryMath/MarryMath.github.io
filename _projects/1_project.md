@@ -24,13 +24,8 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12c.jpg
     Student Exam Steps（SES）
-
 Student Exam Steps书系,简记为SES，由一系列复习资料书籍构成；针对本科生和研究生博士生的专业课期中期末考试，覆盖从大一到博士资格考试整个学习链；每本书以step-by-step和题型-by-题型，题型化考点和步骤化解答、相似性题组和针对性备考为导向。
-
-
 本书系是由我们的线上线下的辅导课程结晶而来的。既有中文版也有全英语版本。
-
-
 SES， “SOS”你的大学考试，构架完整知识点体系，缓解考试压力，快速备考，对应考试。
     ---
 
