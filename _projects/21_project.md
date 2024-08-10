@@ -57,3 +57,7 @@ related_publications: true
         {% include figure.liquid loading="eager" path="assets/img/6step21/21-6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div class="caption">
+    D座学霸 本硕辅导 期中期末 考研考级
+</div>
