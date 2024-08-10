@@ -36,7 +36,7 @@ related_publications: true
 </div>
 
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+      这是模拟题资料的目录。模拟题资料是一本书，每科都有一本。模拟题=全部真题+相似题+答案+押题。多次押到押题的。需要模拟题的同学可以记住序号（比如SES Step XX）再找我咨询即可。
 </div>
 
 
@@ -48,13 +48,13 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/6step21/21-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step21/21-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/6step21/21-6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step21/21-6.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
