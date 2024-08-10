@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 21
-description: SES-Step21 第一学期微积分高数期中
+description: SES-Step21 概率论与数理统计期中
 img: assets/img/step21/21-0.jpg
 importance: 1
 category: work
