@@ -8,13 +8,13 @@
     {
       "id": 1,
       "name": "Step1",
-      "item": "xxx",
+      "item": "第一学期微积分高数期中",
       "amount": 4
     },
     {
       "id": 2,
-      "name": "Item 2",
-      "item": "期中",
+      "name": "Step2",
+      "item": "概率论与数理统计期中",
       "amount": 8
     },
     {
