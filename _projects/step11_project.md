@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: project 11
 description: SES-Step11 数学物理方法期中
 img: assets/img/step11/11-00.png
 importance: 1
