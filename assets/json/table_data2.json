@@ -19,14 +19,14 @@
     },
     {
       "id": 3,
-      "name": "Item 3",
-      "item": "$3",
+      "name": "Step9",
+      "item": "理论力学期中",
       "amount": 2
     },
     {
       "id": 4,
-      "name": "Item 4",
-      "item": "$4",
+      "name": "Step6",
+      "item": "大学物理下册期中",
       "amount": 90
     },
     {
