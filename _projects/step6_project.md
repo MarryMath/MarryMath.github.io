@@ -2,7 +2,7 @@
 layout: page
 title: project 6
 description: SES-Step6 大学物理下册期中
-img: assets/img/step26/26-00.png
+img: assets/img/step6/6-00.png
 importance: 1
 category: work
 related_publications: true
