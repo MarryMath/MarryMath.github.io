@@ -48,8 +48,8 @@ Organize your courses by years, topics, or universities, however you like!
 | **** | 概统/概率论期末复习安排 | **** |
 |:----:|:----:|:----:|
 |      |  题型化辅导+Step-by-Step+零基础+出国刷分+保研提分冲95+    |      |
-|      |      |      |
-|      |      |      |
+|      |   模拟题=全部真题+相似题+答案+押题   |      |
+|      |   辅导=题型+知识点+做真题+专题训练   |      |
 |      |      |      |
 |      |      |      |
 |      |      |      |
