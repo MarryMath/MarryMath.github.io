@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching2
-permalink: /teaching/
+permalink: /teaching2/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 7
