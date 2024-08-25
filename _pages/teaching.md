@@ -5,11 +5,14 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
+toc:
+  beginning: true
+---
 
 ---
 
 
-###特别说明
+##特别说明
 
 
 我都有自己的安排和想法。不一定按照教科书顺序来，短期靠集中训练。
@@ -92,6 +95,10 @@ nav_order: 6
 辅导=题型+知识点+做真题+专题训练
 
 
+
+##概统/概率论期末辅导安排
+
+
 | **** | 概统/概率论期末辅导安排 | **** |
 |:----:|:----:|:----:|
 |      |  题型化辅导+Step-by-Step+零基础+出国刷分+保研提分冲95+    |      |
@@ -104,7 +111,7 @@ nav_order: 6
 
 
 
-###微积分/高数/数分第二学期期末辅导安排 
+##微积分/高数/数分第二学期期末辅导安排 
 
 说明：有的学院是学微积分，有的学数分，有的学高数，除了数学专业以外知识点基本一样 
 
