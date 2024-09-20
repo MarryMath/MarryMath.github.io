@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 为了你的大学考试
+subtitle: Exam for You
 
 profile:
   align: right
@@ -22,6 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 
 ---
+
 本硕课程辅导：涵盖大一到博士资格考试。
 
 提供：<br>
