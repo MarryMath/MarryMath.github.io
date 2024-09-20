@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 模拟题资料合集（很多课都有，还没有上传）  SES-Step collections
 nav: true
 nav_order: 3
 display_categories: [work,eco,fun]
