@@ -1,7 +1,8 @@
 ---
 layout: page
-title: course
+title: course2
 description: SES-01 课程测试1
+img: assets/img/12c.jpg
 importance: 1
 category: work
 related_publications: true
