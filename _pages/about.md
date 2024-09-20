@@ -18,6 +18,39 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+
+D座学霸 本硕辅导 期中期末 考研考级
+
+本硕课程辅导：从大一到博士资格考试整个体系
+
+提供：<br>
+
+- 专业课辅导（是辅导）
+  >类似于高中那种辅导，只是我们提供本科和本科以上的辅导。
+- 模拟题资料（是书）
+  >每科分别有一本书，只要是学校有这个考试，有这个课程，我们就有对应的复习模拟题资料。
+- 真题视频详解（是视频）
+  >就是把真题从头到尾 Step-by-Step 无任何跳步地写出来，带有所有解题痕迹，补充所有细节。
+
+
+
+出国提分，留学刷分
+
+为出国的同学提供高分辅导，为更好的申请研究生学校
+
+保研加分 GPA提升
+
+
+短期题型化辅导
+
+按照题型，题型-by-题型，快速高效，针对期末期中会考的快速补习。
+
+有自己的想法的辅导
+
+举例如下，
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
