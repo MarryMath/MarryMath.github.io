@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: D座学霸 本硕辅导 期中期末 考研考级
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-D座学霸 本硕辅导 期中期末 考研考级
+
 
 本硕课程辅导：从大一到博士资格考试整个体系
 
