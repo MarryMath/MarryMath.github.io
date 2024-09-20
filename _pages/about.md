@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: D座学霸 本硕辅导 期中期末 考研考级
+subtitle: 为了你的大学考试
 
 profile:
   align: right
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-本硕课程辅导：从大一到博士资格考试整个体系
+本硕课程辅导：涵盖大一到博士资格考试。
 
 提供：<br>
 
@@ -35,7 +35,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-
+D座学霸 本硕辅导 期中期末 考研考级
 
 
 
