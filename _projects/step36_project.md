@@ -1,16 +1,16 @@
 ---
 layout: page
-title: project 38
-description: SES-Step38 大学物理上册期中
-img: assets/img/step38/38-00.png
-importance: 3
+title: project 36
+description: SES-Step36 计量经济学期末
+img: assets/img/step36/36-00.png
+importance: 4
 category: eco
 related_publications: true
 ---
 
-这个是【大学物理上册期中】模拟题的目录
+这个是【计量经济学期末】模拟题的目录
 
-序号:SES-Step38
+序号:SES-Step36
 
 
 
@@ -25,13 +25,13 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-0.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-0.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -42,17 +42,17 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step38/38-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/step36/36-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
