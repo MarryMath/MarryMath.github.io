@@ -45,16 +45,7 @@ related_publications: true
         {% include figure.liquid loading="eager" path="assets/img/step36/36-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step36/36-4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/step36/36-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 
 <div class="caption">
     D座学霸 本硕辅导 期中期末 考研考级
