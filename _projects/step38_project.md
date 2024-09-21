@@ -1,14 +1,14 @@
 ---
 layout: page
 title: project 38
-description: SES-Step38 大学物理上册期中
+description: SES-Step38 货币金融学期末
 img: assets/img/step38/38-00.png
 importance: 3
 category: eco
 related_publications: true
 ---
 
-这个是【大学物理上册期中】模拟题的目录
+这个是【货币金融学期末】模拟题的目录
 
 序号:SES-Step38
 
