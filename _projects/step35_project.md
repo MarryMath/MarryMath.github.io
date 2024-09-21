@@ -1,14 +1,14 @@
 ---
 layout: page
 title: project 35
-description: SES-Step35 通用大学英语第一学期期中
+description: SES-Step35 宏观经济学期末
 img: assets/img/step35/35-00.png
 importance: 2
 category: eco
 related_publications: true
 ---
 
-这个是【通用大学英语第一学期期中】模拟题的目录
+这个是【宏观经济学期末】模拟题的目录
 
 序号:SES-Step35
 
