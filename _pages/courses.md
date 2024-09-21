@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: courses
 permalink: /courses/
 description: A growing collection of your  course.
