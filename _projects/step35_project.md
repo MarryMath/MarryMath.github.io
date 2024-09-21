@@ -3,8 +3,8 @@ layout: page
 title: project 35
 description: SES-Step35 通用大学英语第一学期期中
 img: assets/img/step35/35-00.png
-importance: 1
-category: work
+importance: 2
+category: eco
 related_publications: true
 ---
 
