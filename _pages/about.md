@@ -6,12 +6,12 @@ subtitle: Exam for You
 
 profile:
   align: right
-  image: prof_pic.png
+  image: E4U-2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>期中期末 考研考级</p>
     <p>出国刷分 GPA提升</p>
-    <p>本硕辅导</p>
+   
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
