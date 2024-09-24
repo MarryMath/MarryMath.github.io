@@ -6,7 +6,7 @@ subtitle: Exam for You
 
 profile:
   align: right
-  image: E4U-3.png
+  image: E4U-3.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>期中期末 考研考级</p>
