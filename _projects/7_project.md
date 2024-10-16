@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 7
-description: with background image
+description: 模拟题资料简介和实物照片
 img: assets/img/4.jpg
 importance: 1
 category: work
