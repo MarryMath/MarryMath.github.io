@@ -4,7 +4,7 @@ title: project 23
 description: SES-Step23 概率论与数理统计期末
 img: assets/img/step23/23-00.png
 importance: 3
-category: eco
+category: winter
 related_publications: true
 ---
 
