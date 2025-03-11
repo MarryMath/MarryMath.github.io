@@ -4,7 +4,7 @@ title: project 34
 description: SES-34 微观经济学期末
 img: assets/img/step34/34-00.png
 importance: 3
-category: winter，eco
+category: eco
 related_publications: true
 ---
 
