@@ -2,7 +2,7 @@
 layout: page
 title: project 1000
 description: 模拟题资料简介和实物照片
-img: assets/img/step1000/1000-1.png
+img: assets/img/9.jpg
 importance: 1
 category: work
 related_publications: true
