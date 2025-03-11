@@ -3,7 +3,7 @@ layout: page
 title: project 3
 description: SES-Step3 微积分高数数学分析-1期末
 img: assets/img/step3/3-00.png
-importance: 3
+importance: 1
 category: winter
 related_publications: true
 ---
