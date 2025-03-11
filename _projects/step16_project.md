@@ -1,14 +1,14 @@
 ---
 layout: page
 title: project 16
-description: SES-16 微积分高数数学分析-1期末
+description: SES-16 大学化学期末
 img: assets/img/step16/16-00.png
 importance: 3
 category: winter
 related_publications: true
 ---
 
-这个是【微积分高数数学分析-1期末】模拟题的目录
+这个是【大学化学期末】模拟题的目录
 
 序号:SES-Step16
 
