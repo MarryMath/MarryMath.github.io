@@ -11,55 +11,29 @@ horizontal: false
 
 <!-- pages/courses.md -->
 <div class="projects">
-{% if site.enable_course_categories and page.display_categories %}
-  <!-- Display categorized courses -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
+{% if site.enable_project_categories and site.display_categories %}
+  <!-- Display categorized projects -->
+  <div class="categories">
+  {% for category in site.display_categories %}
     <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each course -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include courses_horizontal.liquid %}
-    {% endfor %}
+    {% assign categorized_projects = site.courses | where: "category", category %}
+    {% assign sorted_projects = categorized_projects | sort: "importance" %}
+    <!-- Generate cards for each project -->
+    <div class="grid">
+      {% for project in sorted_projects %}
+        {% include courses.html %}
+      {% endfor %}
     </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include courses.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
   {% endfor %}
-
+  </div>
 {% else %}
-
-<!-- Display courses without categories -->
-
-{% assign sorted_courses = site.courses | sort: "importance" %}
-
-  <!-- Generate cards for each course -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for course in sorted_courses %}
-      {% include courses_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for course in sorted_courses %}
-      {% include courses.liquid %}
+  <!-- Display projects without categories -->
+  {% assign sorted_projects = site.courses | sort: "importance" | reverse %}
+  <div class="grid">
+    {% for project in sorted_projects %}
+      {% include courses.html %}
     {% endfor %}
   </div>
-  {% endif %}
 {% endif %}
 </div>
+
